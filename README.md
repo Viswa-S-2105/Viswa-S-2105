@@ -11,7 +11,7 @@ I’m a passionate Computer Science Engineering student in my penultimate year, 
 I love turning ideas into real-world applications and collaborating on meaningful projects.
 
 - 🔭 Currently building: [Events Management System](https://github.com/DhanushT7/Events-Management-Application)
-- 🌱 Learning: MERN Stack, TypeScript, System Design
+- 🌱 Learning: MERN Stack, Computer Networks
 - 📫 Contact me: sviswa2105@gmail.com
 - ⚡ Fun fact: I enjoy solving logic puzzles & learning through hands-on coding
 
@@ -19,11 +19,9 @@ I love turning ideas into real-world applications and collaborating on meaningfu
 
 ### 🚀 Tech Stack
 
-**Languages:** Java, C++, JavaScript, SQL  
-**Frontend:** HTML5, CSS3, React, Material-UI  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, VS Code
+**Languages:** Java, C, C++, HTML/CSS, JavaScript, SQL 
+**Tools:** Git, GitHub, VS Code, Eclipse
+**Technologies/Frameworks:** HTML5, CSS3, React JS, Node.js, Express, MongoDB
 
 ---
 
