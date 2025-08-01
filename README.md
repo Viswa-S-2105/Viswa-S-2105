@@ -35,15 +35,6 @@ I love turning ideas into real-world applications and collaborating on meaningfu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-S-2105&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viswa-S-2105&theme=radical" width="47%" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viswa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/viswa2105)  
