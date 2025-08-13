@@ -21,7 +21,7 @@ I love turning ideas into real-world applications and collaborating on meaningfu
 
 **Languages:** Java, C, C++, HTML/CSS, JavaScript, SQL  
 **Tools:** Git, GitHub, VS Code, Eclipse  
-**Technologies/Frameworks:** HTML5, CSS3, React JS, Node.js, Express, MongoDB  
+**Technologies/Frameworks:** HTML5, CSS3, Node.js, Express, MongoDB  
 
 ---
 
