@@ -7,21 +7,16 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate Computer Science Engineering student in my penultimate year, specializing in **Full Stack Web Development**.  
+I’m a passionate Computer Science Engineering student in my Final year.  
 I love turning ideas into real-world applications and collaborating on meaningful projects.
-
-- 🔭 Currently building: [Events Management System](https://github.com/DhanushT7/Events-Management-Application)
-- 🌱 Learning: MERN Stack, Computer Networks
-- 📫 Contact me: sviswa2105@gmail.com
-- ⚡ Fun fact: I enjoy solving logic puzzles & learning through hands-on coding
 
 ---
 
 ### 🚀 Tech Stack
 
 **Languages:** Java, C, C++, HTML/CSS, JavaScript, SQL  
-**Tools:** Git, GitHub, VS Code, Eclipse  
-**Technologies/Frameworks:** HTML5, CSS3, Node.js, Express, MongoDB  
+**Tools:** GitHub, VS Code, Eclipse  
+**Technologies/Frameworks:** Node.js, Express, MongoDB, MySQL  
 
 ---
 
