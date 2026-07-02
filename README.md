@@ -22,11 +22,12 @@ I love turning ideas into real-world applications and collaborating on meaningfu
 
 ### 📌 Highlight Projects
 
-🔹 **[Events Management System](https://github.com/DhanushT7/Events-Management-Application)**  
-> MERN stack web app to manage university-level events with certificate generation, dashboards, and route protection.
+🔹 **[Explainable Compromised Insider Threat Detection](https://github.com/Viswa-S-2105/Explainable-Insider-Threat-Detection)**  
+> An explainable AI-based insider threat detection system using IDS-driven user behaviour analytics
+and attention-based deep learning
 
-🔹 **[Transport Management System](https://github.com/Viswa-S-2105/Transport-Management-System)**  
-> JavaScript-based system with Google Maps integration for tracking, distance-based billing, and a clean animated UI.
+🔹 **[Events Management System](https://github.com/Viswa-S-2105/Events-Management-Application)**  
+> MERN stack web app to manage university-level events with certificate generation, dashboards, and route protection.
 
 ---
 
