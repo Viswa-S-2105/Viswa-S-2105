@@ -14,9 +14,8 @@ I love turning ideas into real-world applications and collaborating on meaningfu
 
 ### 🚀 Tech Stack
 
-**Languages:** Java, C, C++, HTML/CSS, JavaScript, SQL  
-**Tools:** GitHub, VS Code, Eclipse  
-**Technologies/Frameworks:** Node.js, Express, MongoDB, MySQL  
+**Languages:** Java, C, C++, Python, HTML/CSS, JavaScript, SQL  
+**Technologies/Frameworks:** React, Node.js, Express, MongoDB, MySQL 
 
 ---
 
